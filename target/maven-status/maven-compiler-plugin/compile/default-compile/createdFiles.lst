@@ -1,0 +1,16 @@
+api/loginvalidatorserver/repo/FileTypeRepository.class
+api/loginvalidatorserver/dto/SourcesDto.class
+api/loginvalidatorserver/entity/FileTypes.class
+api/loginvalidatorserver/repo/StatusRepository.class
+api/loginvalidatorserver/entity/Status.class
+api/loginvalidatorserver/repo/CustomerLogFileRepository.class
+api/loginvalidatorserver/entity/CustomerLogFile.class
+api/loginvalidatorserver/service/CustomerLofFileService.class
+api/loginvalidatorserver/dto/CustomerLogFileDto.class
+api/loginvalidatorserver/entity/Sources.class
+api/loginvalidatorserver/dto/StatusDto.class
+api/loginvalidatorserver/controller/UFRestController.class
+api/loginvalidatorserver/dto/FileTypesDto.class
+api/loginvalidatorserver/convertor/DtoToEntityConvertor.class
+api/loginvalidatorserver/repo/SourcesRepository.class
+api/loginvalidatorserver/LoginValidatorServerApplication.class

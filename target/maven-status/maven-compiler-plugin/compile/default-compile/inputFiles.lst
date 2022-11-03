@@ -1,0 +1,16 @@
+/home/family/Desktop/smit/LoginValidatorServer/src/main/java/api/loginvalidatorserver/repo/SourcesRepository.java
+/home/family/Desktop/smit/LoginValidatorServer/src/main/java/api/loginvalidatorserver/service/CustomerLofFileService.java
+/home/family/Desktop/smit/LoginValidatorServer/src/main/java/api/loginvalidatorserver/controller/UFRestController.java
+/home/family/Desktop/smit/LoginValidatorServer/src/main/java/api/loginvalidatorserver/entity/FileTypes.java
+/home/family/Desktop/smit/LoginValidatorServer/src/main/java/api/loginvalidatorserver/dto/SourcesDto.java
+/home/family/Desktop/smit/LoginValidatorServer/src/main/java/api/loginvalidatorserver/entity/Sources.java
+/home/family/Desktop/smit/LoginValidatorServer/src/main/java/api/loginvalidatorserver/convertor/DtoToEntityConvertor.java
+/home/family/Desktop/smit/LoginValidatorServer/src/main/java/api/loginvalidatorserver/dto/StatusDto.java
+/home/family/Desktop/smit/LoginValidatorServer/src/main/java/api/loginvalidatorserver/dto/CustomerLogFileDto.java
+/home/family/Desktop/smit/LoginValidatorServer/src/main/java/api/loginvalidatorserver/repo/CustomerLogFileRepository.java
+/home/family/Desktop/smit/LoginValidatorServer/src/main/java/api/loginvalidatorserver/entity/Status.java
+/home/family/Desktop/smit/LoginValidatorServer/src/main/java/api/loginvalidatorserver/repo/StatusRepository.java
+/home/family/Desktop/smit/LoginValidatorServer/src/main/java/api/loginvalidatorserver/dto/FileTypesDto.java
+/home/family/Desktop/smit/LoginValidatorServer/src/main/java/api/loginvalidatorserver/entity/CustomerLogFile.java
+/home/family/Desktop/smit/LoginValidatorServer/src/main/java/api/loginvalidatorserver/LoginValidatorServerApplication.java
+/home/family/Desktop/smit/LoginValidatorServer/src/main/java/api/loginvalidatorserver/repo/FileTypeRepository.java
